@@ -22,4 +22,4 @@
 </div>
 @endsection
 
-// home blade
+// this is home blade
