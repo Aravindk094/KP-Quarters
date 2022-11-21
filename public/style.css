@@ -1,0 +1,179 @@
+
+.container {
+    background-color: rgb(245, 240, 240);
+    height: auto;
+}
+
+.container-fluid {
+    background-color: rgb(231, 255, 255);
+    height: auto;
+}
+
+.container1 {
+    border: 2px solid; 
+    background-color:chocolate;
+    height: 100px;
+}
+
+.row {
+    border: 0px solid rgb(240, 220, 220);
+}
+.col,.col1 {
+    border: 0px solid rgb(246, 243, 243);
+}
+.col-sm-4, .col-lg-4{
+    border: 1px solid brown;
+    background-color: cadetblue;
+}
+.box1{
+    height: 150px;
+    width: 150px;
+    background-color: coral;
+}
+.div{
+    height: 50px;
+    width: 100px;
+    border: 2px solid black;
+}
+.container2{
+    border: 2px solid brown;
+    height: auto;
+}
+.col-4{
+    height: 150px;
+    background-color: aliceblue;
+
+}
+
+.header{
+    background-color: rgb(207, 198, 64);
+    height: auto;
+    width: 100%;
+}
+.col-3{
+    height: 300px;
+    width: auto;
+    border-color: darkcyan;
+}
+img.slide{
+    height: 550px;
+}
+
+
+/* form style */
+
+
+.gradient-custom {
+/* fallback for old browsers */
+background: #fbf5fc;
+
+/* Chrome 10-25, Safari 5.1-6 */
+background: -webkit-linear-gradient(to bottom right, rgb(249, 244, 250), rgb(245, 240, 240));
+
+/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: linear-gradient(to bottom right, rgb(250, 246, 250), rgb(248, 244, 245))
+}
+
+.card-registration .select-input.form-control[readonly]:not([disabled]) {
+font-size: 1rem;
+line-height: 2.15;
+padding-left: .25em;
+padding-right: .25em;
+}
+.card-registration .select-arrow {
+top: 13px;
+}
+
+
+
+
+
+
+/* table */
+html,
+body,
+.intro {
+  height: auto;
+}
+
+table td,
+table th {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+thead th {
+  color: rgb(231, 209, 209);
+}
+
+.card {
+  border-radius: .5rem;
+}
+
+.table-scroll {
+  border-radius: .5rem;
+}
+
+.table-scroll table thead th {
+  font-size: 1.25rem;
+}
+thead {
+  top: 0;
+  position: sticky;
+}
+
+
+
+/* login form */
+.bg-image-vertical {
+  position: relative;
+  overflow: hidden;
+  background-repeat: no-repeat;
+  background-position: right center;
+  background-size: auto 100%;
+  }
+  .badge {
+    background-color: rgb(245, 249, 251);
+    color: rgb(40, 5, 181);
+    padding: 8px 8px;
+    text-align: center;
+    border-radius:15px;
+    
+  
+  }
+  
+  /* @media (min-width: 991.98px) {
+  .bg-footer {
+  margin-top: 90px   !important;
+  }
+  } */
+/* For marque */
+  
+
+  .text1{
+    width: 60%;
+    margin-left: 20%;
+    height: 100px;
+    z-index: 2;
+    position: absolute;
+  }
+
+  .textinner{
+font-weight:1rem;
+font-size: small;
+color: #f02424 !important;
+font-style: italic !important;
+font-size: 1rem;
+  }
+
+  .center1 {
+    text-align: center;
+    /*These options are for the div to be visible in the example, the important is the first*/
+    border:1px solid black;
+    width: auto;
+    height: 50px;
+}
+
+/* End For marque */
+  
