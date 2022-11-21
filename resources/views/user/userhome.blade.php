@@ -3,7 +3,7 @@
 <div class="row mt-0 ">
   <div class="container">
     <marquee class="text1" onmouseover="this.stop();" onmouseout="this.start();">
-      <p class="textinner">Before submitting application, applicants must read rules and regulations!.</p>
+      <p class="textinner">Before submitting application, applicants must read the Rules and Regulations!.</p>
     </marquee>
     <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
       <div class="carousel-inner">
@@ -16,7 +16,7 @@
               <h6 class="display-6 text-dark mb-md-2 fst-italic">Rules and Regulations</h6>
               <!-- <a href="#" class="btn btn-warning py-md-2 px-md-2 me-3">Read More..</a> -->
               <button type="button" class="btn btn-warning py-md-2 px-md-2 me-3" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
-                Read More
+                Read More 
               </button>
 
             </div>
