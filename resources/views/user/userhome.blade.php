@@ -3,7 +3,7 @@
 <div class="row mt-0 ">
   <div class="container">
     <marquee class="text1" onmouseover="this.stop();" onmouseout="this.start();">
-      <p class="textinner">Before submitting application,applicants must read rules and regulations!.</p>
+      <p class="textinner">Before submitting application, applicants must read rules and regulations!.</p>
     </marquee>
     <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
       <div class="carousel-inner">
