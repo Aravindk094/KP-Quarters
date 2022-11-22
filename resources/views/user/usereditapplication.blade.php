@@ -69,7 +69,7 @@
     <div class="form-check">
       <input class="form-check-input" type="checkbox" id="gridCheck">
       <label class="form-check-label" for="gridCheck">
-       <b> WHETHER MARRIED AND PROPOSED TO OCCUPY QUARTERS IS ALLOTTED WITH FAMILY</b>
+       <b> WHETHER MARRIED ANDdS PROPOSED TO OCCUPY QUARTERS IS ALLOTTED WITH FAMILY</b>
       </label>
     </div>
   </div>
